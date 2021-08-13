@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Amp.
-- 👀 I’m interested in Basketball.
-- 🌱 I’m currently studying HDS KMUTT.
+ 👋 Hi, I’m Amp.
+ 🏀 I’m interested in Basketball.
+ 🏢 I’m currently studying HDS KMUTT.
+
 
 
 <!---
